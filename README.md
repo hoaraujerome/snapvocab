@@ -1,9 +1,6 @@
 # Snapvocab
 Snapvocab helps Chinese and Japanese students learning characters that are most useful to them.
 
-## URL
-https://snapvocab.com
-
 ## Application Architecture - Serverless Stack - Production Environment
 MVP 1.0: Manual Payment Workflow
 
